@@ -285,13 +285,13 @@ function App() {
       <section id="home" className="min-h-screen flex items-center justify-center relative z-10 px-4">
         <div className="text-center max-w-4xl mx-auto">
           <div className="mb-8">
-            <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-green-400 to-blue-500 bg-clip-text text-transparent">
+            <h1 className="text-5xl md:text-6xl font-bold font-serif mb-4 bg-gradient-to-r from-green-400 to-blue-500 bg-clip-text text-transparent">
               Rakesh Kathiresan
             </h1>
-            <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-gray-300">
+            <h2 className="text-2xl md:text-3xl font-semibold font-mono mb-6 text-gray-300">
               Cybersecurity Professional
             </h2>
-            <p className="text-lg md:text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
+            <p className="text-lg md:text-l text-gray-400 mb-8 max-w-2xl mx-auto">
               Protecting digital assets and securing infrastructure with expertise in penetration testing, 
               ethical hacking, and incident response.
             </p>
