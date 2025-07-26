@@ -82,7 +82,7 @@ function App() {
   const downloadResume = () => {
     // In a real implementation, this would download the actual resume file
     const link = document.createElement("a");
-    link.href = "./project/Rakesh.pdf";
+    link.href = "/portfolio/Rakesh.pdf";
     link.download = "Rakesh.pdf";
     document.body.appendChild(link);
     link.click();
