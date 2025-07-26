@@ -81,7 +81,13 @@ function App() {
 
   const downloadResume = () => {
     // In a real implementation, this would download the actual resume file
-    alert('Resume download would start here. Please add your resume file to the public folder.');
+    const link = document.createElement("a");
+    link.href = "./project/Rakesh.pdf";
+    link.download = "Rakesh.pdf";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    // alert('Resume download would start here. ');
   };
 
   const skills = [
