@@ -606,20 +606,22 @@ improvements through teamwork, continuous improvement, and precise execution in 
             <div className={`p-8 rounded-xl ${darkMode ? 'bg-gray-800/50' : 'bg-white/50'} backdrop-blur-sm border ${darkMode ? 'border-gray-700' : 'border-gray-200'}`}>
               <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
                 <div>
-                  <h3 className="text-xl font-semibold text-green-400">Security Operations Centre Analyst</h3>
+                  <h3 className="text-xl font-semibold text-green-400">Software Engineer</h3>
                   <p className="text-lg text-gray-300">Renderways Technology Pvt Ltd</p>
                 </div>
                 <span className="text-gray-400">May 2023 - January 2025</span>
               </div>
               <ul className="text-gray-300 space-y-2">
-                <li>• Monitored and triaged 1,000+ weekly alerts using Splunk SIEM, escalating 150+ critical threats to engineering teams for containment and 
-remediation.</li>
-                <li>• Developed Python and PowerShell scripts to automate log parsing and alert enrichment, reducing manual triage effort by 35%.</li>
-                <li>• Performed vulnerability assessments and supported patch implementation aligned with ISO 27001 and NIST CSF guidelines, reducing 
-critical risks by 40% in six months.</li>
-                <li>• Designed MITRE ATT&CK-aligned detection use cases and tuned alert logic, improving signal-to-noise ratio by 25%.</li>
-                <li>• Automated repetitive security tasks using scripting and SOAR tools, improving efficiency and reducing manual workload by 40%.</li>
-                <li>• Produced clear weekly incident and compliance reports to assist internal audits and maintain operational transparency.</li>
+                <li>• Led consolidation of multiple legacy website platforms into a unified Drupal 10 architecture, reducing maintenance overhead by 35% and 
+improving page performance scores by 25%.</li>
+                <li>• Built and maintained responsive frontend components using HTML, CSS, JavaScript, and Vue.js, increasing user engagement metrics by
+18% and reducing bounce rate by 12%</li>
+                <li>• Managed and optimized Linux-based Azure cloud environments, improving deployment reliability and achieving 99.9% uptime through 
+automated monitoring and CI/CD pipelines.</li>
+                <li>• Collaborated with UX and content design teams to deliver data-driven website features, translating non-technical requirements into scalable 
+solutions and reducing delivery timelines by 20%.</li>
+                <li>• Implemented automated testing, documentation standards, and code reviews across projects, increasing release confidence and reducing 
+production defects by 30%.</li>
               </ul>
             </div>
 
@@ -632,6 +634,8 @@ critical risks by 40% in six months.</li>
                 <span className="text-gray-400">June 2022 - April 2023</span>
               </div>
               <ul className="text-gray-300 space-y-2">
+                <li> Developed responsive applications using HTML, CSS, JavaScript, and React while contributing ideas to enhance usability and learning 
+experience design.</li>
                 <li>• Delivered adaptable and secure coding for SNCF Virtual Train Simulator and social media-based e-learning modules.</li>
                 <li>• Collaborated with cross-functional teams to monitor security and performance, ensuring 25% higher platform responsiveness.</li>
                 <li>• Communicated project progress clearly and implemented improvements based on analytical insights and IT best practices.</li>
